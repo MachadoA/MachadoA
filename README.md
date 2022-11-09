@@ -1,10 +1,10 @@
 Olá, Sou Ana Amaral 🖐
 
-Estou a ampliar meus horizontes através dos estudos iniciais de HTML, CSS e JS.
+Estou a ampliar meus horizontes através dos estudos iniciais de HTML, CSS, JS e React/ React Native.
 Faço parto do time dos pequenos gafanhotos liderados pelo professor @GustavoGuanabara
-Além disso, estou em formação pela World Academy no curso de especialização profissional <strong> Front-end Development</strong>.
+Além disso, terminei em agosto de 2022 a formação pela World Academy no curso de especialização profissional <strong> Front-end Development</strong>.
 
-Bem- vindo aos primeiros passos!
+Bem- vindo aos meus primeiros passos!
 
 
 ![image](https://logodix.com/logo/954889.png)
