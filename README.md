@@ -1,17 +1,17 @@
-Olá, Sou Ana Amaral 🖐
+Olá, sou Ana Amaral. 👋
 
+Sou uma desenvolvedora front-end com experiência em HTML5, CSS3 e JavaScript, além de habilidades avançadas em frameworks como React e React Native. Estou entusiasmada em aplicar essas habilidades para criar experiências web excecionais.
 
-Sou desenvolvedora front-end com experiência em HTML5, CSS3 e JavaScript, além de habilidades em frameworks como React e React Native. Busco aprimorar minhas habilidades e consolidar os conhecimentos em front-end. 
+Também sou membro da comunidade "Pequenos Gafanhotos", liderada pelo Professor @GustavoGuanabara, e participo ativamente de várias outras iniciativas e grupos de tecnologia.
 
-Além disso, faço parto do time dos pequenos gafanhotos liderados pelo professor @GustavoGuanabara, e muitos outros instrutores e incentivadores em tecnologia.
+Para aprimorar minha formação, recentemente concluí um curso de especialização em Front-end Development em agosto de 2022 e, terminei o estágio em março do ano vigente.
 
-Para complementar meu processo de aprendizagem, fiz um curso de especialização profissional <strong> Front-end Development</strong> concluído em agosto de 2022.
+No meu perfil, você encontrará projetos que ilustram minhas experiências anteriores, meu portfólio de trabalho e minha paixão por criar experiências digitais envolventes.
 
-Meu perfil apresenta projetos que demonstram minhas primeiras experiências, meu trabalho e minha paixão por criar experiências digitais envolventes. 
+Fique à vontade para explorar meu repositório e, se houver oportunidades de colaboração ou discussões, estou à disposição.
 
-Fique à vontade para examinar meu repositório e contruir com novas oportunidades
+Bem-vindo(a) ao meu universo!
 
-Bem- vindo ao meu mundo!
 
 
 ![image](https://logodix.com/logo/954889.png)
