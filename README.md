@@ -4,8 +4,6 @@ Sou uma desenvolvedora front-end com experiência em HTML5, CSS3 e JavaScript, a
 
 Também sou membro da comunidade "Pequenos Gafanhotos", liderada pelo Professor @GustavoGuanabara, e participo ativamente de várias outras iniciativas e grupos de tecnologia.
 
-Para aprimorar minha formação, cursei a especialização em Front-end Development, tendo concluído em agosto de 2023.
-
 No meu perfil, você encontrará projetos que ilustram minhas experiências anteriores, meu portfólio de trabalho e minha paixão por criar experiências digitais envolventes.
 
 Fique à vontade para explorar meu repositório e, se houver oportunidades de colaboração ou discussões, estou à disposição.
