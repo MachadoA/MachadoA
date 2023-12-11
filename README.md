@@ -1,14 +1,18 @@
-Olá, sou Ana Amaral. 👋
+Hello, I'm Ana Amaral. 👋
 
-Sou uma desenvolvedora front-end com experiência em HTML5, CSS3 e JavaScript, além de habilidades avançadas em frameworks como React e React Native. Estou entusiasmada em aplicar essas habilidades para criar experiências web excecionais.
+"I began my professional journey with the Professional Specialization course in Front-end Development, which I have already completed. There, I had my first encounters with HTML5, CSS3, Bootstrap, JavaScript, React, and React Native.
 
-Também sou membro da comunidade "Pequenos Gafanhotos", liderada pelo Professor @GustavoGuanabara, e participo ativamente de várias outras iniciativas e grupos de tecnologia.
+After completing the specialization, I sought further knowledge through various online courses, including those by Gustavo Guanabara, Mateus Batistti, Sujeito Programador, Mouredev, Kevin Powell, among others.
 
-No meu perfil, você encontrará projetos que ilustram minhas experiências anteriores, meu portfólio de trabalho e minha paixão por criar experiências digitais envolventes.
+The hands-on experience during my internship provided me with insights into the developer's daily routine, and since then, I have been actively seeking opportunities in the job market.
 
-Fique à vontade para explorar meu repositório e, se houver oportunidades de colaboração ou discussões, estou à disposição.
+Currently, I work on personal projects, aiming to blend creativity and functionality to offer user-friendly solutions.
 
-Bem-vindo(a) ao meu universo!
+I invite you to explore some of my projects on my GitHub and Frontend Mentor repositories, where you can get a better understanding of my work and coding style. I look forward to hearing from you to discuss potential collaborations, job opportunities, or just to exchange ideas about the fascinating world of front-end development.
+
+Talk to you soon!"
+
+My website showcasing my portfolio: <a href="https://anaamaral.netlify.app/">anaamaral.netlify.app</a>
 
 
 
